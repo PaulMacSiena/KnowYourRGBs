@@ -1,12 +1,13 @@
+
 #topSection{
     text-align: center;
     background-color:cornflowerblue;
-    color: whitesmoke;
+    color: white;
 }
 
 #divider{
     border-top: cornflowerblue;
-    background-color: seashell;
+    background-color: white;
 }
 
 #newColors{
@@ -26,8 +27,18 @@
 }
 
 #bottom{
-    background-color:rgb(30, 30,30);
+    color: white;
+    text-align: center;
 }
+
+.row .col{
+    padding: white;
+}
+
+#custom{
+    padding: white;
+}
+
 
 body{
     background-color:rgb(30, 30,30);
